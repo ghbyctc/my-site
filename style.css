@@ -95,6 +95,21 @@ body {
   font-size: 28px;
   line-height: 40px;
   font-weight: 500;
+}
+
+.soft-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.soft-skill {
+  flex: 1 1 calc(50% - 15px); /* Две колонки */
+  padding: 5px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  text-align: center;
+}
 
 }
 
