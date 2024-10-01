@@ -104,7 +104,7 @@ body {
 }
 
 .soft-skill {
-  flex: 1 1 calc(50% - 15px); /* Две колонки */
+  flex: 1 1 calc(50% - 15px); /snippet_two_col/
   padding: 5px;
   background-color: #f5f5f5;
   border-radius: 8px;
