@@ -97,6 +97,19 @@ body {
   font-weight: 500;
 }
 
+education {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+education {
+  flex: 1 1 calc(50% - 15px); /"snippet_two_col" /
+  padding: 5px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  text-align: center;
+}
+
 .soft-skills {
   display: flex;
   flex-wrap: wrap;
