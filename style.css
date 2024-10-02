@@ -113,6 +113,9 @@ education {
 .columns-2 {
   column-count: 2;
   margin-top: 0;
+  columns: 250px 2;
+  column-gap: 30px;
+  column-rule: 2px solid black;
 }
 
 .skills-list dt {
