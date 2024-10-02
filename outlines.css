@@ -67,6 +67,7 @@ h3::before {
 p {
   background-color: #ffffff;
   border: 2px solid #f36dff;
+  margin: 0;
 }
 
 p::before {
